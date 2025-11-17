@@ -154,7 +154,7 @@ flglaucomasegfinal/
 
 ### Prerequisites
 - Python 3.10.2
-- 80GB RAM for parallel training(Trained on NVIDIA A100-80g)
+- 80GB RAM for training(Trained on NVIDIA A100-80g)
 
 ### Installation Steps
 
