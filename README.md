@@ -699,7 +699,7 @@ Reject_Null, Better_Model, Significant_Winner
 
 ---
 
-## 7. Understanding Results
+## 7. Results
 
 ### Evaluation Metric: Sørensen–Dice Coefficient
 
